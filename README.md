@@ -1,4 +1,4 @@
-# Linguagem-C-lab02
+# Street Fighter Linguagem C
 Segundo laboratório da disciplina Estrutura de Dados da Universidade Estadual de Campinas
 
 
